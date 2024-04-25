@@ -1,0 +1,17 @@
+{
+  "name": "projeto_bot_wpp",
+  "version": "1.0.0",
+  "description": "Bot do Whatsapp utilizando a lib wwebjs.",
+  "main": "main.js",
+  "scripts": {
+    "test": "",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#webpack-exodus"
+  }
+}
